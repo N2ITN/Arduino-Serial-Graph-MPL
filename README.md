@@ -2,9 +2,10 @@
 Real time plotting of serialized accelerometer data (MPU6050 IMU on Arduino) using matplotlib.
 
 Requirements:
+
 Hardware: Arduino Uno R3, MPU 6050
 
-Software: Arduino IDE, IC2DevLib for Arduino IDE, SciPy stack, Python 2.7.9, drawnow Python module
+Software / Libraries: Arduino IDE, IC2DevLib for Arduino IDE, SciPy, Python 2.7.9, drawnow.py 
 
 
 #Arduino_Serial_Input.py
