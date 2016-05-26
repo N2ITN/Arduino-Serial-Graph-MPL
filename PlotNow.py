@@ -11,7 +11,7 @@ ZVals = []
 #plt.ion() #Tell matplotlib you want interactive mode to plot live data
 cnt=0
 Clist = []
-from Arduino_Monitor import SerialData as DataGen
+from Arduino_Serial_Input import SerialData as DataGen
 
 data = DataGen()
 time.sleep(2)
