@@ -1,5 +1,5 @@
 # Arduino-Serial-Graph-MPL
-Real time plotting of serialized accelerometer data (MPU6050 IMU on Arduino) using matplotlib.
+Real time plotting of serialized accelerometer data from MPU6050IMU on Arduino using matplotlib.
 
 Requirements:
 
