@@ -18,6 +18,8 @@ Software / Libraries: Arduino IDE, IC2DevLib for Arduino IDE, SciPy, Python 2.7.
 
   Sets up streaming data from Arduino
   
+  Hardware Config: http://301o583r8shhildde3s0vcnh.wpengine.netdna-cdn.com/wp-content/uploads/2014/11/conn.png
+  
   Based on: http://github.com/jrowberg/i2cdevlib.  
 
 #PlotNow.py
